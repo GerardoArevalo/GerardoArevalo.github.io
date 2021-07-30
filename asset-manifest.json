@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GerardoArevalo/GerardoArevalo.github.io.git/portfolio/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/GerardoArevalo/GerardoArevalo.github.io.git/portfolio/static/js/main.1bb11f34.chunk.js",
+    "main.js.map": "/GerardoArevalo/GerardoArevalo.github.io.git/portfolio/static/js/main.1bb11f34.chunk.js.map",
+    "runtime-main.js": "/GerardoArevalo/GerardoArevalo.github.io.git/portfolio/static/js/runtime-main.9c7ff3c5.js",
+    "runtime-main.js.map": "/GerardoArevalo/GerardoArevalo.github.io.git/portfolio/static/js/runtime-main.9c7ff3c5.js.map",
+    "static/js/2.e0f5e411.chunk.js": "/GerardoArevalo/GerardoArevalo.github.io.git/portfolio/static/js/2.e0f5e411.chunk.js",
+    "static/js/2.e0f5e411.chunk.js.map": "/GerardoArevalo/GerardoArevalo.github.io.git/portfolio/static/js/2.e0f5e411.chunk.js.map",
+    "static/js/3.a665c742.chunk.js": "/GerardoArevalo/GerardoArevalo.github.io.git/portfolio/static/js/3.a665c742.chunk.js",
+    "static/js/3.a665c742.chunk.js.map": "/GerardoArevalo/GerardoArevalo.github.io.git/portfolio/static/js/3.a665c742.chunk.js.map",
+    "index.html": "/GerardoArevalo/GerardoArevalo.github.io.git/portfolio/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/GerardoArevalo/GerardoArevalo.github.io.git/portfolio/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e0f5e411.chunk.js.LICENSE.txt": "/GerardoArevalo/GerardoArevalo.github.io.git/portfolio/static/js/2.e0f5e411.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c7ff3c5.js",
+    "static/js/2.e0f5e411.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.1bb11f34.chunk.js"
+  ]
+}
